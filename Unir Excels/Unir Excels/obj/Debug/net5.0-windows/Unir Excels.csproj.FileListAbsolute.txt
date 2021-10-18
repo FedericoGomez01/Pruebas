@@ -1,0 +1,23 @@
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\bin\Debug\net5.0-windows\Unir Excels.exe
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\bin\Debug\net5.0-windows\Unir Excels.deps.json
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\bin\Debug\net5.0-windows\Unir Excels.runtimeconfig.json
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\bin\Debug\net5.0-windows\Unir Excels.runtimeconfig.dev.json
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\bin\Debug\net5.0-windows\Unir Excels.dll
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\bin\Debug\net5.0-windows\ref\Unir Excels.dll
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\bin\Debug\net5.0-windows\Unir Excels.pdb
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Unir Excels.csproj.AssemblyReference.cache
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Unir Excels.csproj.ResolveComReference.cache
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Unir_Excels.Form1.resources
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Unir Excels.csproj.GenerateResource.cache
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Unir Excels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Unir Excels.AssemblyInfoInputs.cache
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Unir Excels.AssemblyInfo.cs
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Unir Excels.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Unir Excels.csproj.CopyComplete
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Unir Excels.dll
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\ref\Unir Excels.dll
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Unir Excels.pdb
+C:\Users\Santiago\source\repos\Unir Excels\Unir Excels\obj\Debug\net5.0-windows\Unir Excels.genruntimeconfig.cache
