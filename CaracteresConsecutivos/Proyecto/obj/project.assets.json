@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Kovix_CaracteresConsecutivos/Entidades.csproj",
+      "msbuildProject": "../Kovix_CaracteresConsecutivos/Entidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Entidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Santiago\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Santiago\\source\\repos\\Kovix_CaracteresConsecutivos\\Proyecto\\Proyecto.csproj",
+      "projectName": "Proyecto",
+      "projectPath": "C:\\Users\\Santiago\\source\\repos\\Kovix_CaracteresConsecutivos\\Proyecto\\Proyecto.csproj",
+      "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Santiago\\source\\repos\\Kovix_CaracteresConsecutivos\\Proyecto\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Santiago\\source\\repos\\Kovix_CaracteresConsecutivos\\Kovix_CaracteresConsecutivos\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Santiago\\source\\repos\\Kovix_CaracteresConsecutivos\\Kovix_CaracteresConsecutivos\\Entidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
