@@ -1,0 +1,23 @@
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Combinar Correspondencia.csproj.AssemblyReference.cache
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Combinar_Correspondencia.Form1.resources
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Combinar Correspondencia.csproj.GenerateResource.cache
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Combinar Correspondencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Combinar Correspondencia.AssemblyInfoInputs.cache
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Combinar Correspondencia.AssemblyInfo.cs
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Combinar Correspondencia.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\bin\Debug\net5.0-windows\Combinar Correspondencia.exe
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\bin\Debug\net5.0-windows\Combinar Correspondencia.deps.json
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\bin\Debug\net5.0-windows\Combinar Correspondencia.runtimeconfig.json
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\bin\Debug\net5.0-windows\Combinar Correspondencia.runtimeconfig.dev.json
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\bin\Debug\net5.0-windows\Combinar Correspondencia.dll
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\bin\Debug\net5.0-windows\ref\Combinar Correspondencia.dll
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\bin\Debug\net5.0-windows\Combinar Correspondencia.pdb
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Combinar Correspondencia.csproj.CopyComplete
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Combinar Correspondencia.dll
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\ref\Combinar Correspondencia.dll
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Combinar Correspondencia.pdb
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Combinar Correspondencia.genruntimeconfig.cache
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Combinar Correspondencia\obj\Debug\net5.0-windows\Combinar Correspondencia.csproj.ResolveComReference.cache

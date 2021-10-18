@@ -1,0 +1,10 @@
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Santiago\source\repos\Combinar Correspondencia\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
